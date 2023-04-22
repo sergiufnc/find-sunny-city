@@ -1,0 +1,7 @@
+{
+    "functions": {
+        "api/chatgpt.rb": {
+            "runtime": "ruby"
+        }
+    }
+}
