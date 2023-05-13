@@ -21,7 +21,7 @@ function App() {
         value={inputValue}
         onChange={(e) => setInputValue(e.target.value)}
       />
-      <button type="submit">Generate</button>
+      <button type="submit">Generate Completion</button>
       <div>{outputValue}</div>
     </form>
   );
